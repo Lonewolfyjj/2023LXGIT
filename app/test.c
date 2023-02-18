@@ -3,7 +3,6 @@
 int main()
 {
     printf("ni hao\n");
-
-    printf("jierong push first\n");
+    printf("noko\n");
     return 0;
 }

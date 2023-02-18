@@ -1,0 +1,8 @@
+
+
+
+*.o
+*xle
+
+.vscode/
+aa/.c

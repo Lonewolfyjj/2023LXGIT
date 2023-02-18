@@ -3,6 +3,6 @@
 int main()
 {
     printf("ni hao\n");
-    printf("noko\n");
+    printf("ni ok\n");
     return 0;
 }
